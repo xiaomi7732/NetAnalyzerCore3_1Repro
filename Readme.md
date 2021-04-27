@@ -1,4 +1,4 @@
-# NetAnalyzer shows no warning or error when uses .NET Core 3.1 SDK
+# Mitigating FxCop to Microsoft.CodeAnalysis.NetAnalyzers, no warning or error when use with .NET Core 3.1 SDK
 
 Refer to <https://github.com/dotnet/roslyn-analyzers/issues/5069> for details.
 
